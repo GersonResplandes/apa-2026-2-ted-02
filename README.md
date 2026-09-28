@@ -4,6 +4,7 @@
 
 - Gérson Resplandes de Sá Sousa
 - Erdeson Monteiro Candeias
+- Marcos Jean
 
 ## Disciplina
 
